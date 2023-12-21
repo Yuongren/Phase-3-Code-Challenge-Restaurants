@@ -1,5 +1,5 @@
 class Customer:
-    all = []
+    all_ustomers= []
 
 
     def __init__(self, given_name, family_name):
